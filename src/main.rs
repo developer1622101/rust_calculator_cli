@@ -15,8 +15,8 @@ fn main() {
  } 
 
 
+/* 
 let mut  i = 0 ; 
-/*
 for elem  in &args  {  
  println!(" at index   {}  , the number is {}"  , i ,  elem) ; 
  i+=1 ;  
