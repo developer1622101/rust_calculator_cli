@@ -1,0 +1,1 @@
+/home/praveen/coding/development/Rust/rust_calculator_cli/target/package/cli_calculator-0.1.0/target/debug/cli_calculator: /home/praveen/coding/development/Rust/rust_calculator_cli/target/package/cli_calculator-0.1.0/src/main.rs

@@ -2,7 +2,5 @@
 name = "cli_calculator"
 version = "0.1.0"
 edition = "2021"
-description="A basic  cli calcuator" 
-license = "MIT" 
 
 [dependencies]
